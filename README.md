@@ -5,3 +5,6 @@
     1，每个action-reducer放在一个文件里；
     2，总的reducer接收所有
     3，每个component自己取对应的action
+
+
+### 4.增加了react-router的例子

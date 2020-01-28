@@ -3,7 +3,8 @@
 */
 import React from 'react';
 import ReactDOM from 'react-dom';
-import AppContainer from "./App";
+//import AppContainer from "./App";
+import RouterApp from './RouterApp';
 
 
-ReactDOM.render(<AppContainer />,document.getElementById('root'));
+ReactDOM.render(<RouterApp />,document.getElementById('root'));
