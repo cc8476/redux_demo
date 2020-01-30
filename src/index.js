@@ -6,7 +6,9 @@ import ReactDOM from 'react-dom';
 //import AppContainer from "./App";
 //import RouterApp from './RouterApp';
 //import RouterApp from './FatherCom';
-import RouterApp from './testCom';
+//import RouterApp from './testCom';
+//import RouterApp from './mouseEventCom';
+import RouterApp from './LayoutContainer';
 
 
 ReactDOM.render(<RouterApp />,document.getElementById('root'));

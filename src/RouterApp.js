@@ -11,6 +11,7 @@ class RouterApp extends React.Component {
     render() {
         return (
             <Router>
+                {    (1==1) ?<div>zzz1</div> : <div>zzz</div> }
                 <Link to="/home">click me!</Link>
                  <Route path="/home" component={App} />
             </Router>
