@@ -2,7 +2,6 @@
 * Created by joechen  2020-01-26 13:04
 */
 import React from 'react';
-
 import {bindActionCreators} from 'redux';
 import {connect, Provider} from "react-redux";
 
