@@ -4,7 +4,7 @@ export const MinusAction=()=>{
     };
 };
 
-export const reducer = (state,action)=>{
+export const reducer = (state={"value":0},action)=>{
 
     console.log("minus action reducer:",action.type);
     switch(action.type) {
