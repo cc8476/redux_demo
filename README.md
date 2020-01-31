@@ -1,7 +1,7 @@
 ### 0.包含了redux  (App.js)
 ### 1.包含了react-redux的例子 (App.js)
 ### 2.redux-thunk的例子 (App.js)
-### 3.更好的结构：
+### 3.更好的结构：(addAction.js 和 minusAction.js)
     1，每个action-reducer放在一个文件里；
     2，总的reducer接收所有
     3，每个component自己取对应的action
