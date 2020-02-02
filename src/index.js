@@ -3,13 +3,14 @@
 */
 import React, { useState } from 'react';
 import ReactDOM from 'react-dom';
-//import AppContainer from "./App";
-//import RouterApp from './RouterApp';
-//import RouterApp from './FatherCom';
-//import RouterApp from './testCom';
-//import RouterApp from './mouseEventCom';
-//import RouterApp from './LayoutContainer';
-import Hook from './Hook';
+//import App from "./App";
+//import App from './RouterApp';
+//import App from './FatherCom';
+//import App from './testCom';
+//import App from './mouseEventCom';
+//import App from './LayoutContainer';
+//import App from './Hook';
+//import App from './usingWithTime'
+import App from './FatherPureCom';
 
-
-ReactDOM.render(<Hook />,document.getElementById('root'));
+ReactDOM.render(<App />,document.getElementById('root'));

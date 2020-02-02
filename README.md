@@ -24,3 +24,6 @@
 
 #### 11.最基础的React—hook(Hook.js)
 
+#### 12.高阶组件的作用，就是给普通组件做增强的(usingWithTime  ---  普通组件  ， withTime --- 高阶组件)
+
+#### 13.PureComponent组件（PureComponent.js和FatherPureCom.js）
